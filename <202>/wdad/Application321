@@ -1,1 +1,3 @@
-
+public static void main(String[] args),{
+std::cout<<«I’m Danya Kirienko, and I’m not a monkey»;
+}
